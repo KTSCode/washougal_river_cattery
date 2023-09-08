@@ -42,7 +42,7 @@ Here's what you can expect in terms of rates and the size of the cat enclosures.
 - Two cats from the same family: **$48/night**
 
 #### Additional Fees
-- Medication administration: **$5/day**
+- Medication administration: **TBD**
 - Bathing fee: **$10**
 
 ---
