@@ -4,7 +4,7 @@ title: Washougal River Cattery
 subtitle: A boutique retreat for your feline companions.  
 ---
 
-![Inside The Cattery](/assets/img/image3.jpg)
+![Inside The Cattery]({{ "/assets/img/image3.jpg" | prepend: site.baseurl }})
 
 We offer a cozy and home-like atmosphere for your cats. With a limited number of cats in our care, we provide a quiet and peaceful environment where each kitty gets multiple opportunities for outside-of-the-condo play and exploration throughout the day and early evenings.
 
@@ -35,7 +35,7 @@ Here's what you can expect in terms of rates and the size of the cat enclosures.
 - **Size**: Each enclosure is 71” wide by 38” deep and 71” high.
 - **Amenities**: Outside-of-the-enclosure playtime and access to an enclosed outdoor kitty patio when the weather permits.
 
-![Outside The Cattery](/assets/img/image2.jpg)
+![Outside The Cattery]({{ "/assets/img/image2.jpg" | prepend: site.baseurl }})
 
 #### Pricing
 - Single cat: **$33/night**
