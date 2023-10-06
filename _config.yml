@@ -21,9 +21,9 @@ baseurl: "/washougal_river_cattery"
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Requirements: "requirements"
-  Rates: "rates"
+#navbar-links:
+  #Requirements: "requirements"
+  #Rates: "rates"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
