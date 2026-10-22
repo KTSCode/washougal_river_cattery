@@ -4,7 +4,7 @@ title: Washougal River Cattery
 subtitle: A boutique retreat for your feline companions.  
 ---
 
-![Inside The Cattery]({{ "/assets/img/image3.jpg" | prepend: site.baseurl }})
+![Inside The Cattery]({{ "/assets/img/image3.webp" | prepend: site.baseurl }})
 
 We offer a cozy and home-like atmosphere for your cats. With a limited number of cats in our care, we provide a quiet and peaceful environment where each kitty gets multiple opportunities for outside-of-the-condo play and exploration throughout the day and early evenings.
 
